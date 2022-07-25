@@ -3,4 +3,6 @@
 docker container ls -a
 docker images
 docker network ls
+docker info
+docker
 
