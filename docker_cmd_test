@@ -1,0 +1,6 @@
+#! /bin/sh
+
+docker container ls -a
+docker images
+
+
